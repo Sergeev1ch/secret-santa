@@ -14,7 +14,7 @@
 ### Документация
 --- ---
 
-Автогенерация с помощью Swagger - [/docs](https://rest-secret-santa.herokuapp.com)
+Автогенерация с помощью Swagger - [/docs](https://rest-secret-santa.herokuapp.com/docs/)
 
 
 ### Функции
